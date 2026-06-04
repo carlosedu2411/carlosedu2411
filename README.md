@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/carlosedu2411" target="_blank">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosedu2411v&layout=donut-vertical&theme=dark" width="350" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosedu2411&layout=donut-vertical&theme=dark" width="350" />
   </a>
 
   <br />
