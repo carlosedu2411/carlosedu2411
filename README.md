@@ -5,7 +5,7 @@
 
   <br />
 <br />
-  <a href="https://www.linkedin.com/in/c/](https://www.linkedin.com/in/carlos-eduardo-180a44278/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-180a44278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
