@@ -1,7 +1,7 @@
 ### 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=donut&theme=radical&hide_border=true&langs_count=5" alt="Gráfico de Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosedu2411&layout=donut&theme=radical&hide_border=true&langs_count=5" alt="Gráfico de Linguagens" />
 </p>
 <div align="center">
   <table border="0">
