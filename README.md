@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/carlosedu2411" target="_blank">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosedu2411&layout=donut-vertical&theme=dark" width="350" />
+<img src="![Meu GitBadge IRC](https://gitbadge.lmagalhaes.com/api/irc?user=carlosedu2411&title=My%20GitBadge%20IRC&style=pie&color=7EE787&bg_color=0D1117&text_color=fa2e00&limit=5&hide=&show_accumulated=false&border_radius=4.5&langColors=%7B%7D&use_default_colors=true&width=350&t=1780807235957)" />
   </a>
 
   <br />
