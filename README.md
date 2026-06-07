@@ -9,9 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
-  <a href="https:www.instagram.com/carlosedu_offc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
-  </a>
+ 
 <br />
 <br />
 
